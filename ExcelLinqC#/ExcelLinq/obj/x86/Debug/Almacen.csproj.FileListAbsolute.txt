@@ -1,0 +1,22 @@
+G:\Cobi\UCCI\2016-2 Evolucion de Software\ExcelLinqC#\ExcelLinq\bin\Debug\DatosExcel.xls
+G:\Cobi\UCCI\2016-2 Evolucion de Software\ExcelLinqC#\ExcelLinq\bin\Debug\ExcelLinq.exe
+G:\Cobi\UCCI\2016-2 Evolucion de Software\ExcelLinqC#\ExcelLinq\bin\Debug\ExcelLinq.pdb
+G:\Cobi\UCCI\2016-2 Evolucion de Software\ExcelLinqC#\ExcelLinq\obj\x86\Debug\Almacen.csprojResolveAssemblyReference.cache
+G:\Cobi\UCCI\2016-2 Evolucion de Software\ExcelLinqC#\ExcelLinq\obj\x86\Debug\ExcelLinq.Form1.resources
+G:\Cobi\UCCI\2016-2 Evolucion de Software\ExcelLinqC#\ExcelLinq\obj\x86\Debug\ExcelLinq.Form2.resources
+G:\Cobi\UCCI\2016-2 Evolucion de Software\ExcelLinqC#\ExcelLinq\obj\x86\Debug\ExcelLinq.MDIParent1.resources
+G:\Cobi\UCCI\2016-2 Evolucion de Software\ExcelLinqC#\ExcelLinq\obj\x86\Debug\ExcelLinq.Properties.Resources.resources
+G:\Cobi\UCCI\2016-2 Evolucion de Software\ExcelLinqC#\ExcelLinq\obj\x86\Debug\Almacen.csproj.GenerateResource.Cache
+G:\Cobi\UCCI\2016-2 Evolucion de Software\ExcelLinqC#\ExcelLinq\obj\x86\Debug\ExcelLinq.exe
+G:\Cobi\UCCI\2016-2 Evolucion de Software\ExcelLinqC#\ExcelLinq\obj\x86\Debug\ExcelLinq.pdb
+G:\ExcelLinqC#\ExcelLinq\obj\x86\Debug\ExcelLinq.exe
+G:\ExcelLinqC#\ExcelLinq\obj\x86\Debug\ExcelLinq.pdb
+G:\ExcelLinqC#\ExcelLinq\bin\Debug\DatosExcel.xls
+G:\ExcelLinqC#\ExcelLinq\bin\Debug\ExcelLinq.exe
+G:\ExcelLinqC#\ExcelLinq\bin\Debug\ExcelLinq.pdb
+G:\ExcelLinqC#\ExcelLinq\obj\x86\Debug\Almacen.csprojResolveAssemblyReference.cache
+G:\ExcelLinqC#\ExcelLinq\obj\x86\Debug\ExcelLinq.Form1.resources
+G:\ExcelLinqC#\ExcelLinq\obj\x86\Debug\ExcelLinq.Form2.resources
+G:\ExcelLinqC#\ExcelLinq\obj\x86\Debug\ExcelLinq.MDIParent1.resources
+G:\ExcelLinqC#\ExcelLinq\obj\x86\Debug\ExcelLinq.Properties.Resources.resources
+G:\ExcelLinqC#\ExcelLinq\obj\x86\Debug\Almacen.csproj.GenerateResource.Cache
